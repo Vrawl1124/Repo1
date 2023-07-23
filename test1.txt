@@ -1,10 +1,10 @@
- Volume in drive C is WIN 10
+ Volume in drive C is WIN 11
  Volume Serial Number is 2E34-2953
 
  Directory of C:\Users\UMA SIVA\Desktop\Project
 
 23-07-2023  20:45    <DIR>          .
 23-07-2023  20:45    <DIR>          ..
-23-07-2023  20:45                 0 test1.txt
+23-07-2023  20:45                 5 test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  62,005,469,184 bytes free
